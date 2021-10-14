@@ -13,5 +13,8 @@ I'm a software engineer who's very passionate about Machine Learning and Artific
 - 💬 Ask me about whatever you want, I'm happy to help
 
 <p align="left"> <b> My GitHub stats: </b> </p> <p align="right"> <b> This week I spent time on </b> <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka--> </p>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=mwritescode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
