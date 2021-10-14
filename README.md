@@ -4,7 +4,7 @@
 
 I'm a software engineer who's very passionate about Machine Learning and Artificial Intelligence in general. I think tech should make a positive impact on society and I try to cotribute, even if just a little, with my small projects.
 
-### I'm glad you are here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mwritescode.mwritescode)
+### I'm glad you are here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mwritescode/mwritescode)
 
 - 😄 Pronouns: She / Her
 - 🌱 I’m currently learning NLP and Speech Recognition
@@ -16,12 +16,6 @@ I'm a software engineer who's very passionate about Machine Learning and Artific
 ### 📈 **My GitHub stats:** <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwritescode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" /> 
 
-
-### 📊 **This week I spent time on:** <br> <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 ### 🗨️ **Get in touch:**
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/martina-rossini/)
