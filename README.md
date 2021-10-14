@@ -1,6 +1,6 @@
 ## Hi there, I'm Martina  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center"> <img align="center" alt="GIF" src="https://github.com/mwritescode/mwritescode/blob/main/assets/profile_banner.gif?raw=true" height="430"/> </p> <br>
+<p align="center"> <img align="center" alt="GIF" src="https://github.com/mwritescode/mwritescode/blob/main/assets/profile_banner.gif?raw=true" width="95%"/> </p> <br>
 
 I'm a software engineer who's very passionate about Machine Learning and Artificial Intelligence in general. I think tech should make a positive impact on society and I try to cotribute, even if just a little, with my small projects.
 
