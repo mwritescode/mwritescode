@@ -12,11 +12,20 @@ I'm a software engineer who's very passionate about Machine Learning and Artific
 - ⚡ Fun fact: I think learning a new programming language is actually quite similar to learning a new language. I'm equally as facinated by human languages and considered studying Foreign Languages in my Bachelor dregree before deciding on Computer Science. I currently speak fluently Italian and English and I'm learning German and French.
 - 💬 Ask me about whatever you want, I'm happy to help
 
-📈 **My GitHub stats:** <br>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=mwritescode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" /> 
-📊 **This week I spent time on:** <br> <!--START_SECTION:waka-->
+
+### 📈 **My GitHub stats:** <br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwritescode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" /> 
+
+
+### 📊 **This week I spent time on:** <br> <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+### 🗨️ **Get in touch:**
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/martina-rossini/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/home)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/martirossini)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/martirossini_/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:martina.rossini704@gmail.com)
