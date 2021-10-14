@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Martina  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**mwritescode/mwritescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who's very passionate about Machine Learning and Artificial Intelligence in general. I think tech should make a positive impact on society and I try to cotribute, even if just a little, with my small projects.
 
-Here are some ideas to get you started:
+### I'm glad you are here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mwritescode.mwritescode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: She / Her
+- 🌱 I’m currently learning NLP and Speech Recognition
+- 👩‍💻 I love ML, but would also love to get more experience in UX Design and Web Dev
+- ⚡ Fun fact: I think learning a new programming language is actually quite similar to learning a new language. I'm equally as facinated by human languages and considered studying Foreign Languages in my Bachelor dregree before deciding on Computer Science. I currently speak fluently Italian and English and I'm learning German and French.
+- 💬 Ask me about whatever you want, I'm happy to help
+
+### My GitHub stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mwritescode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
