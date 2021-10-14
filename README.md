@@ -12,9 +12,11 @@ I'm a software engineer who's very passionate about Machine Learning and Artific
 - ⚡ Fun fact: I think learning a new programming language is actually quite similar to learning a new language. I'm equally as facinated by human languages and considered studying Foreign Languages in my Bachelor dregree before deciding on Computer Science. I currently speak fluently Italian and English and I'm learning German and French.
 - 💬 Ask me about whatever you want, I'm happy to help
 
-<p align="left"> <b> My GitHub stats: </b> </p> <p align="right"> <b> This week I spent time on </b> <!--START_SECTION:waka-->
+📈 **My GitHub stats:** <br>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=mwritescode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" /> 
+📊 **This week I spent time on:** <br> <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka--> </p>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=mwritescode&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<!--END_SECTION:waka-->
+
