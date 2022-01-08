@@ -19,7 +19,7 @@ I'm a software engineer who's very passionate about Machine Learning and Artific
 
 ### 🗨️ **Get in touch:**
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/martina-rossini/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/home)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mwritescode)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/martirossini)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/martirossini_/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:martina.rossini704@gmail.com)
