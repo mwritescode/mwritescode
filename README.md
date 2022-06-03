@@ -2,7 +2,7 @@
 
 <p align="center"> <img align="center" alt="GIF" src="https://github.com/mwritescode/mwritescode/blob/main/assets/profile_banner.gif?raw=true" width="95%"/> </p> <br>
 
-I am an incoming M.S. graduate in Artificial Intelligence at the University of Bologna in Italy who's passionate about applying new technologies to social and environmental issues.
+I am an incoming M.S. graduate in Artificial Intelligence at the University of Bologna who's passionate about applying new technologies to social and environmental issues.
 
 ### I'm glad you are here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mwritescode/mwritescode)
 
