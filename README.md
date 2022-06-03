@@ -1,8 +1,8 @@
-## Hi there, I'm Martina  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Martina  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <p align="center"> <img align="center" alt="GIF" src="https://github.com/mwritescode/mwritescode/blob/main/assets/profile_banner.gif?raw=true" width="95%"/> </p> <br>
 
-I'm a software engineer who's very passionate about Machine Learning and Artificial Intelligence in general. I think tech should make a positive impact on society and I try to cotribute, even if just a little, with my small projects.
+I am an incoming M.S. graduate in Artificial Intelligence at the University of Bologna in Italy who's passionate about applying new technologies to social and environmental issues.
 
 ### I'm glad you are here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mwritescode/mwritescode)
 
@@ -10,7 +10,6 @@ I'm a software engineer who's very passionate about Machine Learning and Artific
 - 🌱 I’m currently learning NLP and Speech Recognition
 - 👩‍💻 I love ML, but would also love to get more experience in UX Design and Web Dev
 - ⚡ Fun fact: I think learning a new programming language is actually quite similar to learning a new language. I'm equally as facinated by human languages and considered studying Foreign Languages in my Bachelor dregree before deciding on Computer Science. I currently speak fluently <img src="https://img.icons8.com/emoji/48/000000/italy-emoji.png" width="20"/> and <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png" width="20"/>, I'm also learning <img src="https://img.icons8.com/emoji/48/000000/germany-emoji.png" width="20"/> and <img src="https://img.icons8.com/emoji/48/000000/france-emoji.png" width="20"/>
-- 💬 Ask me about whatever you want, I'm happy to help
 
 
 ### 📈 **My GitHub stats:** <br>
