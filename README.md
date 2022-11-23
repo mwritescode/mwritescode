@@ -7,9 +7,9 @@ I am an incoming M.S. graduate in Artificial Intelligence at the University of B
 ### I'm glad you are here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/mwritescode/mwritescode)
 
 - 😄 Pronouns: She / Her
-- 🌱 I’m currently learning NLP and Speech Recognition
-- 👩‍💻 I love ML, but would also love to get more experience in UX Design and Web Dev
-- ⚡ Fun fact: I think learning a new programming language is actually quite similar to learning a new language. I'm equally as facinated by human languages and considered studying Foreign Languages in my Bachelor dregree before deciding on Computer Science. I currently speak fluently <img src="https://img.icons8.com/emoji/48/000000/italy-emoji.png" width="20"/> and <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png" width="20"/>, I'm also learning <img src="https://img.icons8.com/emoji/48/000000/germany-emoji.png" width="20"/> and <img src="https://img.icons8.com/emoji/48/000000/france-emoji.png" width="20"/>
+- 🌱 I’m currently focusing on natural language generation
+- 👩‍💻 I love ML, but I'm also interested in getting more web development experience
+- ⚡ Fun fact: I think learning a new programming language is actually quite similar to learning a new language. I actually considered studying Foreign Languages in my Bachelor dregree before deciding on Computer Science. I currently speak fluently <img src="https://img.icons8.com/emoji/48/000000/italy-emoji.png" width="20"/> and <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png" width="20"/>, while I'm learning <img src="https://img.icons8.com/emoji/48/000000/germany-emoji.png" width="20"/> and <img src="https://img.icons8.com/emoji/48/000000/france-emoji.png" width="20"/>
 
 
 ### 📈 **My GitHub stats:** <br>
